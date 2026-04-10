@@ -88,7 +88,7 @@ Trabalho com estruturas bidimensionais de dados.
 
 ---
 
-##🛠 Ferramenta utilizada
+## 🛠 Ferramenta utilizada
 
 Visualg (Portugol)
 
