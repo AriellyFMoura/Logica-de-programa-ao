@@ -8,7 +8,7 @@ inicio
    SUC <- N1 + 1
    ANT <- N1 - 1
 
-   Escreval("O sucessor de",N1, " e: ", SUC)
-   Escreva("O antecessor de",N1," e: ", ANT)
+   Escreval("O sucessor de ", N1, " é: ", SUC)
+   Escreval("O antecessor de ", N1, " é: ", ANT)
    
 fimalgoritmo
